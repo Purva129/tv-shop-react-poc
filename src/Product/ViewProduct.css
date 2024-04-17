@@ -1,0 +1,12 @@
+.modal-content {
+    background-color: #212529 !important;
+    color: white;
+}
+
+.btn-close {
+    color: white !important;
+}
+.list-group-item {
+    background-color: transparent !important;
+    color: white !important;
+}
